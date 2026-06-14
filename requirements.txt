@@ -1,6 +1,8 @@
-streamlit>=1.35.0
-yfinance>=0.2.40
-pandas>=2.0.0
-numpy>=1.24.0
-plotly>=5.15.0
-catboost>=1.2
+streamlit
+yfinance
+pandas
+numpy
+plotly
+sklearn
+xgboost
+catboost
